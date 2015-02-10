@@ -1,5 +1,5 @@
 
-PImage img;
+PImage image;
 
 void setup() {
     size(800, 600);
